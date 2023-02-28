@@ -1,0 +1,13 @@
+{
+  "start_message": "Hello, choomba!\\n\\nGPT-Telegramus version {}\\n\\nAuthor: Fern Lane\\nContributors: Sergey Krashevich\\nChatGPT: OpenAI\\nAPI: acheong08\\n\\nSupport the project by buying my music: https://f3rni.bandcamp.com",
+  "help_message": "/start - welcome message and bot version\\n/gpt request - ChatGPT request\\n/draw request - draw a picture with DALLE\\n/queue - show requests queue",
+  "gpt_no_text": "Empty request, choomba!\\n\\nExample: /gpt Write a song about OpenAI",
+  "draw_no_text": "Empty request, choomba!\\n\\nExample: /draw An eco-friendly computer from the 90s in the style of vaporwave",
+  "gpt_no_message": "Empty request, choomba!\\n\\nExample: Write a song about OpenAI",
+  "queue_overflow": "Queue is full. Try again later",
+  "queue_empty": "Queue is empty",
+  "queue_stats": "Queue:\\n\\n{0}",
+  "queue_accepted": "Added to the queue. Position: {0}/{1}",
+  "gpt_error": "Error: {0}\\n\\nMake another request or try again later =(",
+  "reset": "Reset command sent"
+}
